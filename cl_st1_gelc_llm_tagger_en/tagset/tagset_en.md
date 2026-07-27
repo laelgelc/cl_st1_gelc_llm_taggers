@@ -1,9 +1,12 @@
 Features:
+
 A. Articles
+
 2. Definite article: the
 3. Indefinite article: a
 
 B. Nouns and Pronouns
+
 4. 1st person pronouns e.g., I, we
 5. 2nd person pronouns e.g., you
 6. 3rd person pronouns e.g., he, she, they
@@ -23,6 +26,7 @@ B. Nouns and Pronouns
 19. group nouns e.g., church, committee, government, institute
 
 C. Verbs
+
 20. possibility, permission and ability modals: can, could, may, might
 21. prediction modals: will, would, shall, be going to
 22. necessity and obligation modals: must, should, had better, have to, got to, ought to
@@ -36,6 +40,7 @@ C. Verbs
 30. aspectual verbs e.g., begin, complete, continue, keep, start
 
 D. The Verb Phrase
+
 31. past tense e.g., claimed, concluded, found, reported
 32. perfect aspect e.g., had argued, have discussed, has shown
 33. progressive aspect e.g., is becoming, is causing, are seeking
@@ -43,6 +48,7 @@ D. The Verb Phrase
 35. by-phrase passive voice: passive constructions with agent in by-phrase
 
 E. Adjectives
+
 36. all attributive adjectives: all adjectives occurring as a noun pre-modifier
 37. all predicative adjectives: all adjectives occurring in post-predicate position
 38. size adjectives e.g., big, great, large, small
@@ -53,11 +59,13 @@ E. Adjectives
 42b. color adjectives e.g., green, yellow, blue, black
 
 F. Adverbs
+
 43. general adverbs
 44. time adverbs e.g., again, later, now
 45. stance adverbs e.g., obviously, evidently, frankly, surprisingly
 
 G. Coordination and Subordination
+
 46. adverbial conjuncts e.g., however, therefore, thus
 47. clausal coordinating conjunctions e.g., and, or
 48. phrasal coordinating conjunctions e.g., but
@@ -66,6 +74,7 @@ G. Coordination and Subordination
 51. that deletion e.g. I think they are..., it's probable they will... 
 
 H. Clauses Marking Stance
+
 52. that-clause controlled by factive (certainty) verb e.g., demonstrate that..., conclude that...
 53. that-clause controlled by likelihood verb e.g., appear that..., estimate that..., seem to..., suppose that..., suggest that...
 54. that-clause controlled by factive (certainty) adjective e.g., it is certain that..., it is clear that...
@@ -82,15 +91,18 @@ H. Clauses Marking Stance
 65. all to-clauses controlled by stance nouns e.g., the claim to..., the possibility to..., the assumption to..., the fact to...
 
 I. Post-Nominal Modifiers
+
 66. passive postnominal modifier: non-finite -ed clause postmodifying a noun eg: the method used in the experiment
 67. that relative clause relative clause with that as relative pronoun: eg the house that..., the person that ..., 
 
 J. Other
+
 68. wh-questions all clauses tagged as wh-questions eg: who would say...?
 69. wh-clauses all clauses with wh-complementizer eg: I know what he did; What he said surprised everyone.; We are interested in how the process works.
 70. all prepositions: any word tagged as a preposition
 
 K. Adverbs and adverbials
+
 71. amplifr = amplifier adverbs, e.g. absolutely, entirely, completely
 72. downtone = downtoner adverbs, e.g. nearly, slightly, somewhat, almost
 73. atadvl = attitudinal adverbs, e.g. unfortunately, luckily, sadly
@@ -102,6 +114,7 @@ K. Adverbs and adverbials
 79. pl_adv = place adverbs, e.g. here, there, nearby
 
 L. Verb types
+
 80. occurv = occurrence verbs, e.g. happen, occur, take place
 81. prv_vb = private verbs, e.g. believe, feel, think, suppose
 82. pub_vb = public verbs, e.g. say, report, claim, assert
@@ -116,6 +129,7 @@ L. Verb types
 91. occurpv = occurrence phrasal verbs, e.g. come about, break out
 
 M. Clause types
+
 92. nonf_vth = that-clause controlled by non-factive verb, e.g. say that..., report that..., claim that...
 93. nfct_nth = that-clause controlled by non-factive noun, e.g. the report that..., the claim that...
 94. att_vth = that-clause controlled by attitudinal verb, e.g. regret that..., prefer that..., hope that...
@@ -128,16 +142,19 @@ M. Clause types
 101. x5_jto = to-clause controlled by evaluative adjective, e.g. important to..., useful to...
 
 N. Relative clause distinctions
+
 102. rel_obj = relative clause with object gap, e.g. the book that I read
 103. rel_subj = relative clause with subject gap, e.g. the book that is interesting
 104. rel_pipe = relative clause with pied piping, e.g. the person to whom I spoke
 
 O. Other syntactic features
+
 105. finlprep = stranded preposition, e.g. the topic we talked about
 106. spl_aux = split auxiliary construction, e.g. has always been, is often considered
 107. that_del = that-deletion in complement clauses, e.g. I think he is right
 
 P. Other functional features
+
 108. contrac = contractions, e.g. don't, can't, it's
 109. inf = infinitive verb, e.g. to go, to study
 110. pres = present tense verbs, e.g. runs, speak, go
@@ -149,6 +166,7 @@ P. Other functional features
 116. nonf_vless = verbless clause, e.g. Although difficult..., When necessary..., If possible...
 
 Q. Derived (aggregate, sum) features
+
 900. allmodal = all modal verbs (pos_mod, nec_mod), e.g. can, may, must, should
 901. allconj = all conjunctions (o_and, p_and, sub_cnd, sub_othr, conjncts), e.g. and, but, if, although, however
 902. allpasv = all passive constructions (agls_psv, by_pasv), e.g. is used, was observed, was carried out
