@@ -1,0 +1,28 @@
+[19/05/26, 10:01:34] Tony Berber Sardinha: -pro-drop: Pedi pizza. Vi que já é tarde.
+-object pronoun mismatch : Vi eles. Mandei eles embora.
+-preposition mismatch : Fui na casa deles. 
+-proclitic position : Ela me viu. 
+-enclitic position : ela disse-me que …
+-meaoclitic posiiton: ela dir-me-ia que …
+-sentence-initial proclisis: Me disseram que …
+[19/05/26, 22:28:44] Tony Berber Sardinha: -discourse marker: vc não acha x? *Não* , com certeza.
+[20/05/26, 01:43:48] Tony Berber Sardinha: -resumptive relative construction: uma figura que eles não têm um controle sobre ele
+[20/05/26, 11:53:23] Tony Berber Sardinha: -left dislocation / topic comment structure: O Joao , ele disse que
+[01/06/26, 13:37:01] Mirella: Oi, Tony! Oi, pessoal! Tudo bem? Estive pensando em uma questão que talvez valha considerar no desenvolvimento do tagger. Alguns termos muito típicos de redes sociais poderiam gerar erros na atribuição de classe gramatical/ semântica. <This message was edited>
+[01/06/26, 13:37:08] Mirella: Um primeiro exemplo são as abreviações em maiúsculas. Por exemplo, FYP (For You Page, a página/feed personalizado do TikTok), em “this appeared on my FYP”, funciona como substantivo, algo como feed ou timeline. Outra abreviação é POV (point of view, usado para enquadrar uma cena ou situação), que muitas vezes aparece no início de posts. Também GRWM (get ready with me, vídeos em que a pessoa se arruma) ou OOTD (outfit of the day, post sobre a roupa do dia), que nomeiam gêneros/formatos de conteúdo. Eles tem um função comunicativa importante que indexa aquele tipo específico de vídeo, então seria ruim se fossem descartados como unknown.
+[01/06/26, 13:37:24] Mirella: Há casos também de slangs, como rizz (carisma/charme, especialmente capacidade de atrair alguém), skibidi (pode ter diferentes significados, como legal ou ruim, ou ainda pode ser usada sem significado algum) e delulu (delusional, usado para alguém iludido ou fantasioso). São termos criados recentemente, que são muito usados, mas podem não ser devidamente classificados.
+[01/06/26, 13:37:40] Mirella: Outros exemplos: it’s giving (está passando uma impressão de/ está com vibe de) pode aparecer com complemento, como em “it’s giving rich aunt”, mas também sem complemento: “that dress is giving” (está entregando/ está funcionando) ou “the makeup tonight is not giving” (não está funcionando/ não causou o efeito esperado). Giving não é apenas o verbo “dar”, mas parte de uma expressão avaliativa.
+[01/06/26, 13:38:02] Mirella: Slay (arrasar, performar muito bem) pode funcionar como verbo (she slayed last night), adjetivo (your nails are slay) ou ainda como só uma interjeição. Já based (avaliação positiva de uma opinião, atitude ou pessoa, geralmente com a ideia de que alguém disse algo certo, corajoso), em “that take is based”, funciona como adjetivo.
+[01/06/26, 13:38:06] Mirella: Stan (fã muito dedicado/obcecado) pode ser verbo em “I stan her” e substantivo em “she is a stan”. Ship (torcer por um casal ou par), em “I ship them” funciona como verbo. Cringe (vergonhoso/constrangedor), em "I cringe when I remember that moment" funciona como verbo, em “that video is cringe” funciona como adjetivo e em "I can’t handle the cringe" é substantivo.
+[01/06/26, 13:38:21] Mirella: Tem ainda o sufixo -maxxing. Isso vem de fóruns incel ligados ao looksmaxxing, "prática" voltada à otimização extrema da aparência masculina, de skincare a intervenções estéticas e procedimentos arriscados (como bater no próprio rosto com um martelo para remodelar a mandíbula 🤯). O TikTok tirou a ideia desse contexto original e popularizou o sufixo -maxxing. Agora ele se cola a quase qualquer substantivo/verbo para falar de uma prática ou identidade de modo exagerado. Studyingmaxxing, sleepmaxxing, healthmaxxing, artmaxxing, chinamaxxing...
+[01/06/26, 13:38:24] Mirella: Enfim, coloquei só alguns casos, tem muitos outros.
+[01/06/26, 13:38:38] Mirella: Não sei o que vocês acham, se vale criar uma frente de trabalho específica para itens como esses, que devem aparecer bastante em corpora digitais, especialmente de redes sociais.
+[01/06/26, 13:41:12] Maria Cláudia Nunes Delfino: Nossa Mirella que legal!!  Não conhecia nenhum 🫣 mas acho que seria legal termos esse tagset no tagger
+[01/06/26, 13:57:10] Tony Berber Sardinha: Acho ótimo, Mirella, bem pensado, boa sugestão.
+[01/06/26, 13:58:49] Mirella: Eu só coloquei aqui os que eu lembrei de cabeça, tem muitos outros. Teria que pesquisar um pouco pra criar um tagset mais completo.
+[01/06/26, 14:00:46] Tony Berber Sardinha: LLMs can generalize from a bunch of examples, so I’d think the list wouldn’t have to be that exhaustive
+[01/06/26, 14:01:15] Mirella: Ok!
+[01/06/26, 14:02:21] Tony Berber Sardinha: some I think would be slang, like giving / slaying, so we’d need to point that out to the LLM so it’d activate the necessary reasoning / priming to spot those.
+[16/06/26, 12:04:06] 𝓐𝓭𝓲𝓵𝓼𝓸𝓷 𝓖𝓸𝓶𝓮𝓼: TAGG Español.txt document omitted
+[16/06/26, 12:04:40] 𝓐𝓭𝓲𝓵𝓼𝓸𝓷 𝓖𝓸𝓶𝓮𝓼: Segue primeira versão do idioma espanhol
+[16/06/26, 12:31:27] Maria Cláudia Nunes Delfino: Uhu 🥳
