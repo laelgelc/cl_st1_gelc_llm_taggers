@@ -1,0 +1,10 @@
+[19/05/26, 10:01:34] Tony Berber Sardinha: -pro-drop: Pedi pizza. Vi que já é tarde.
+-object pronoun mismatch : Vi eles. Mandei eles embora.
+-preposition mismatch : Fui na casa deles. 
+-proclitic position : Ela me viu. 
+-enclitic position : ela disse-me que …
+-meaoclitic posiiton: ela dir-me-ia que …
+-sentence-initial proclisis: Me disseram que …
+[19/05/26, 22:28:44] Tony Berber Sardinha: -discourse marker: vc não acha x? *Não* , com certeza.
+[20/05/26, 01:43:48] Tony Berber Sardinha: -resumptive relative construction: uma figura que eles não têm um controle sobre ele
+[20/05/26, 11:53:23] Tony Berber Sardinha: -left dislocation / topic comment structure: O Joao , ele disse que
