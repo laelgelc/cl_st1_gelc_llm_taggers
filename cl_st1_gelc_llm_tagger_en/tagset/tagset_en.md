@@ -21,7 +21,7 @@
 14. cognition nouns e.g., ability, decision, concept, idea, knowledge
 15. other abstract nouns e.g., advantage, background, culture, model
 16. concrete nouns e.g., acid, brain, camera, computer, glacier
-17. technical nouns e.g., atom, cell, compound, equation, message
+17. technical nouns e.g., atom, cell, compound, equation, message, energy
 18. quantity nouns e.g., amount, century, frequency, percentage
 19. group nouns e.g., church, committee, government, institute
 
@@ -44,8 +44,8 @@
 31. past tense e.g., claimed, concluded, found, reported
 32. perfect aspect e.g., had argued, have discussed, has shown
 33. progressive aspect e.g., is becoming, is causing, are seeking
-34. agentless passive voice: passive constructions with no specified agent
-35. by-phrase passive voice: passive constructions with agent in by-phrase
+34. agentless passive voice: passive constructions with no specified agent; eg: this was done yesterday.
+35. by-phrase passive voice: passive constructions with agent in by-phrase; eg: this was done by Mary yesterday.
 
 ## E. Adjectives
 
@@ -66,12 +66,12 @@
 
 ## G. Coordination and Subordination
 
-46. adverbial conjuncts e.g., however, therefore, thus
+46. adverbial conjuncts e.g., however, therefore, thus, including, for example, e.g.
 47. clausal coordinating conjunctions e.g., and, or
 48. phrasal coordinating conjunctions e.g., but
 49. conditional subordinating conjunctions e.g., if, unless
 50. subordinating conjunctions (other) e.g., as, except
-51. that deletion e.g. I think they are..., it's probable they will... 
+51. that deletion e.g. I think they are..., it's probable they will...
 
 ## H. Clauses Marking Stance
 
@@ -93,13 +93,13 @@
 ## I. Post-Nominal Modifiers
 
 66. passive postnominal modifier: non-finite -ed clause postmodifying a noun eg: the method used in the experiment
-67. that relative clause relative clause with that as relative pronoun: eg the house that..., the person that ..., 
+67. that relative clause relative clause with that as relative pronoun: eg the house that..., the person that ...,
 
 ## J. Other
 
 68. wh-questions all clauses tagged as wh-questions eg: who would say...?
 69. wh-clauses all clauses with wh-complementizer eg: I know what he did; What he said surprised everyone.; We are interested in how the process works.
-70. all prepositions: any word tagged as a preposition
+70. all prepositions: with, to, in, at, for, including, ...
 
 ## K. Adverbs and adverbials
 
