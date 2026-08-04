@@ -41,10 +41,10 @@
 
 ## D. The Verb Phrase
 
-1. simple past tense e.g., they claimed, she concluded, he found, I reported
+31. simple past tense e.g., they claimed, she concluded, he found, I reported
 32a. present perfect tense e.g., they have known, they have seen, it has shown
 32b. past perfect tense e.g., they had shown, they had seen, it had shown
-1. present continuous e.g., it is becoming, they ate causing, we are seeking
+33. present continuous e.g., it is becoming, they ate causing, we are seeking
 2. agentless passive voice: passive constructions witDiretor da Administração Central da Seicho-No-Ie do Brasil.h no specified agent; eg: this was done yesterday.
 3. by-phrase passive voice: passive constructions with agent in by-phrase; eg: this was done by Mary yesterday.
 
