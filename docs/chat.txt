@@ -26,3 +26,87 @@
 [16/06/26, 12:04:06] 𝓐𝓭𝓲𝓵𝓼𝓸𝓷 𝓖𝓸𝓶𝓮𝓼: TAGG Español.txt document omitted
 [16/06/26, 12:04:40] 𝓐𝓭𝓲𝓵𝓼𝓸𝓷 𝓖𝓸𝓶𝓮𝓼: Segue primeira versão do idioma espanhol
 [16/06/26, 12:31:27] Maria Cláudia Nunes Delfino: Uhu 🥳
+
+[29/07/26, 17:21:13] Tony Berber Sardinha: Oi Rogerio, muito bom, obrigado!
+
+Vc viu aqui na lista uma série de pontos que coloquei de características do português para entrar no tagset? Estão em mensagens espalhadas. Vao além das do inglês.
+[29/07/26, 17:29:01] Tony Berber Sardinha: comentários 
+
+> Pronomes pessoais retos: eu, tu, ele, ela, nós, vós, eles, elas, você, vocês, a gente
+O ‘a gente’ deveria ser listado nas construções proposicionadas dos pronomes oblíquos também, pois está lá o ‘com eles,’ etc.
+
+> Substantivos próprios: João, Maria, Brasil, São Paulo, Correios
+> Substantivos comuns: casa, livro, estudante, cidade, mesa
+Precisa colocar etc. em todos, porque essa lista de features será colocada no prompt do LLM
+
+> Orações relativas: o livro que li, a pessoa que veio, a casa onde moro, o estudante que estuda
+
+precisa colocar exemplo com preposição ‘para onde,’ etc e casos mais complicados, com quebra da sequência
+
+Além disso, volto a lembrar, precisa colocar as formas não-padrão, como por exemplo, ‘a pessoa que eu falei ontem,’ ‘um problema onde a gente precisa conversar mais’ etc
+[29/07/26, 17:29:18] Tony Berber Sardinha: acho que vc incluiu várias delas, muito bom
+[29/07/26, 17:29:58] Tony Berber Sardinha: Está excelente, podia fazer testes
+[29/07/26, 17:41:49] Tony Berber Sardinha: Os números dos tags no GitHub desaparecem quando copiados e colocados num prompt… precisa ‘hard code’ os números para que persistam quando copiados.
+[29/07/26, 17:42:32] Tony Berber Sardinha: > 21. Todos os substantivos
+> 902. todos_substantivos = todos os substantivos comuns, próprios, abstratos, concretos, técnicos, coletivos e de quantidade
+
+Repetidos
+[29/07/26, 17:43:37] Tony Berber Sardinha: O tag 7 é vazio — precisa retirá-lo e deixar apenas os que têm conteúdo como 7.1, 7.2 etc
+[29/07/26, 18:41:15] Tony Berber Sardinha: Português {21, 23, 902} brasileiro {33, 35, 40, 903} (abreviado {41, 68, 103, 904} como {96, 907} pt-BR {21, 22, 133, 902, 912}[2] ou {88, 907} simplesmente {73, 905} PB {21, 22, 133, 902, 912}), também {75, 905} conhecido {41, 68, 103, 904} como {96, 907} português {21, 23, 902} do {3, 85, 906} Brasil {21, 22, 902}, é {42, 43, 52, 904} o {1, 900} termo {21, 23, 25, 902} utilizado {41, 68, 103, 904} para {83, 906} classificar {41, 101, 904} a {1, 900} variante {21, 23, 24, 902} da {3, 85, 906} língua {21, 23, 24, 902} portuguesa {33, 35, 40, 903} falada {41, 68, 103, 904} de {83, 906} forma {21, 23, 24, 902} nativa {33, 35, 903} pelos {3, 85, 906} mais {74, 79, 905} de {83, 906} 213 {7} milhões {21, 23, 28, 902} de {83, 906} brasileiros {21, 23, 26, 40, 902} no {3, 85, 906} país {21, 23, 25, 902}, em {83, 906} 2025 {7}[3], e {87, 907} pelos {3, 85, 906} mais {74, 79, 905} de {83, 906} 4 {7} milhões {21, 23, 28, 902},[4] que {18, 98, 901, 909} vivem {41, 52, 904} fora {72, 905} do {3, 85, 906} Brasil {21, 22, 902}.
+
+A {1, 900} Academia {21, 22, 27, 902} Brasileira {33, 35, 40, 903} de {83, 906} Letras {21, 22, 27, 902} (ABL {21, 22, 133, 902, 912}), embora {92, 907} seja {42, 43, 61, 904} uma {2, 900} instituição {21, 23, 27, 32, 902} cultural {33, 35, 903} importante {33, 34, 36, 903} no {3, 85, 906} desenvolvimento {21, 23, 24, 30, 32, 902} do {3, 85, 906} português {21, 23, 902} brasileiro {33, 35, 40, 903}, não {76, 905} possui {41, 52, 904} poder {21, 23, 24, 902} regulatório {33, 35, 903} legal {33, 35, 903} sobre {83, 906} a {1, 900} língua {21, 23, 24, 902}, que {18, 98, 901, 909} é {42, 68, 904} moldada {41, 68, 904} pelo {3, 85, 906} uso {21, 23, 24, 902} e {87, 907} por {83, 906} normas {21, 23, 24, 902} educacionais {33, 35, 903} no {3, 85, 906} Brasil {21, 22, 902}.[5] É {42, 43, 52, 105, 904}, de {84, 906} longe {72, 905}, a {1, 900} mais {74, 905} falada {33, 34, 41, 68, 903, 904} e {87, 907} escrita {33, 34, 41, 68, 903, 904} variante {21, 23, 24, 902} do {3, 85, 906} português {21, 23, 902}, tradicionalmente {73, 905} descrita {41, 68, 904} por {83, 906} gramáticos {21, 23, 26, 31, 902} prescritivistas {33, 35, 903} e {87, 907} filólogos {21, 23, 26, 31, 902}, ainda {92, 907} que {92, 907} estudos {21, 23, 24, 31, 902} modernos {33, 38, 903} da {3, 85, 906} Linguística {21, 22, 24, 31, 902}, como {96, 907} o {1, 900} projeto {21, 23, 25, 30, 902} NURC {21, 22, 133, 902, 912}, venham {42, 61, 904} apontando {41, 65, 102, 904} significativas {33, 36, 903} disparidades {21, 23, 24, 902} entre {83, 906} a {1, 900} gramática {21, 23, 24, 31, 902} tradicional {33, 35, 903} e {87, 907} o {1, 900} português {21, 23, 902} brasileiro {33, 35, 40, 903} de {84, 906} fato {21, 23, 24, 81, 902, 905}, inclusive {78, 905} em {83, 906} suas {5} variedades {21, 23, 24, 902} de {83, 906} prestígio {21, 23, 24, 902}. Tais {4} diferenças {21, 23, 24, 902}, bem {87, 907} como {87, 907} outras {6} características {21, 23, 24, 902} particulares {33, 35, 903} do {3, 85, 906} português {21, 23, 902} brasileiro {33, 35, 40, 903}, o {10, 12, 901} distinguem {41, 52, 904} especialmente {78, 905} do {3, 85, 906} português {21, 23, 902} europeu {33, 35, 40, 903}, embora {92, 907} permaneça {43, 61, 105, 904} uma {2, 900} variante {21, 23, 24, 902} do {3, 85, 906} português {21, 23, 902} dentro {72, 905} da {3, 85, 906} família {21, 23, 27, 902} das {3, 85, 906} línguas {21, 23, 24, 902} românicas {33, 35, 903}, o {20, 901} que {18, 98, 901, 909} tem {42, 52, 904} levado {48, 64, 904} alguns {6} estudiosos {21, 23, 26, 902} a {83, 906} interpretá-lo {10, 12, 41, 101, 112, 904} como {96, 907} uma {2, 900} língua {21, 23, 24, 902} distinta {33, 34, 903}.[6]
+[29/07/26, 18:41:39] Tony Berber Sardinha: teste — texto etiquetado com ChatGPT
+[29/07/26, 18:42:06] Tony Berber Sardinha: Português brasileiro (abreviado como pt-BR[2] ou simplesmente PB), também conhecido como português do Brasil, é o termo utilizado para classificar a variante da língua portuguesa falada de forma nativa pelos mais de 213 milhões de brasileiros no país, em 2025[3], e pelos mais de 4 milhões,[4] que vivem fora do Brasil. A Academia Brasileira de Letras (ABL), embora seja uma instituição cultural importante no desenvolvimento do português brasileiro, não possui poder regulatório legal sobre a língua, que é moldada pelo uso e por normas educacionais no Brasil.[5] É, de longe, a mais falada e escrita variante do português, tradicionalmente descrita por gramáticos prescritivistas e filólogos, ainda que estudos modernos da Linguística, como o projeto NURC, venham apontando significativas disparidades entre a gramática tradicional e o português brasileiro de fato, inclusive em suas variedades de prestígio. Tais diferenças, bem como outras características particulares do português brasileiro, o distinguem especialmente do português europeu, embora permaneça uma variante do português dentro da família das línguas românicas, o que tem levado alguns estudiosos a interpretá-lo como uma língua distinta.[6]
+[29/07/26, 18:42:13] Tony Berber Sardinha: texto sem etiquetar
+[29/07/26, 18:43:00] Tony Berber Sardinha: Prompt:
+
+You're a corpus linguist annotating texts for Part of Speech. Here's the tagset: 
+
+https://github.com/laelgelc/cl_st1_gelc_llm_taggers/blob/main/cl_st1_gelc_llm_tagger_pt/tagset/tagset_ptbr.md
+
+Tag the following text using this tagset. Enter each tag between {} after each case. Eg. A {1} casa {902, 23, 25}
+[29/07/26, 18:43:55] Tony Berber Sardinha: Tentei fazer com o Gemini, mas ele não leu a página do github. Tentei colocar a lista de features direto no prompt, mas como os números desaparecem ao copiar e colar, não deu certo
+[30/07/26, 22:07:05] eyamrog: Muito obrigado, Professor Tony! Verificarei como fazer!
+[30/07/26, 23:23:58] Tony Berber Sardinha: Certo, Rogerio — o GPT parece que funcionou bem.
+[30/07/26, 23:26:47] Tony Berber Sardinha: O grupo precisa se organizar para fazer testes e *conferir* a etiquetagem, ou seja, verificar à mão quais etiquetas estão corretas, quais não, quais estão faltando.
+
+Podem pegar textos curtos (300 palavras mais ou menos) (de preferência dos corpora de vocês) e enviar para etiquetagem com o prompt que mandei acima, para o ChatGPT. No Chat mesmo, sem API. Depois confiram.
+[30/07/26, 23:28:24] Maria Cláudia Nunes Delfino: Esse aqui né Tony? Vou testar
+[31/07/26, 09:28:50] Tony Berber Sardinha: Esse é o prompt com o tagset do português. 
+
+Cada grupo testa o tagset da língua com que está trabalhando. 
+
+O prompt é o mesmo. Apenas muda o tagset. 
+
+O tagset do inglês está aqui no grupo em alguma mensagem. 
+
+O do espanhol está com o grupo do espanhol.
+
+[31/07/26, 12:43:27] Tony Berber Sardinha: Oi Rogerio, bom dia/tarde! Sensacional! Parabéns e obrigado pelo trabalho tão organizado!
+
+comentários:
+-no tagset de PTBR, é preciso incluir stance clauses
+-e conferir se ele contempla as categorias da AMD do PTBR, do nosso antigo tagcount script (acredito que a maioria sim, mas deve ter alguma faltando; eg omissão de sujeito)
+[31/07/26, 12:49:51] Tony Berber Sardinha: Berber_Sardinha_Kauffmann_Acunzo_2014_Dimensions_of_variation_Brazilian_Portuguese.pdf • 46 pages document omitted
+[31/07/26, 12:49:56] Tony Berber Sardinha: Berber_Sardinha_Kauffmann_Acunzo_2014_MD_analysis_of_Brazilian_Portuguese.pdf • 33 pages document omitted
+[31/07/26, 13:17:41] Maria Cláudia Nunes Delfino: gente, estou testando  o tagset em ingles com esse prompt:
+
+You're a corpus linguist annotating texts for Part of Speech. Here's the tagset: https://github.com/laelgelc/cl_st1_gelc_llm_taggers/blob/main/cl_st1_gelc_llm_tagger_en/tagset/tagset_en.md Tag the following text using this tagset. Enter each tag between {} after each case. Eg. The {2} house {9, 14, 15} 
+
+Hey, pretty baby with the high heels on 
+You give me fever like I've never, ever known
+[31/07/26, 13:18:14] Maria Cláudia Nunes Delfino: tagset_en.md document omitted
+[31/07/26, 13:18:56] Maria Cláudia Nunes Delfino: o problema e que ele so esta anotando poucas palavras por vez. As 2 frases que coloquei aqui foi  o maximo que ele tagged
+[31/07/26, 13:19:15] Maria Cláudia Nunes Delfino: vou checar manualmente o que ele fez
+[31/07/26, 13:37:18] Maria Cláudia Nunes Delfino: o gpt esta oscilando, agora ele tagged a musica inteira, rsss
+[31/07/26, 13:57:16] Tony Berber Sardinha: otimo, Claudia, bom trabalho
+[31/07/26, 14:00:54] Maria Cláudia Nunes Delfino: ja coloco aqui porque tenho medo de fazer besteira  no trabalho do Rogerio mas esta muito bom! 2 coisas, tem problemas nos nouns e ele nao reconhece a expressao how come, ele esta etiquetando separadamente
+[31/07/26, 14:03:18] Maria Cláudia Nunes Delfino: english_tagset_test.txt document omitted
+[31/07/26, 14:06:44] Maria Cláudia Nunes Delfino: nesse file tem 2 textos etiquetados. Verifiquei manualmente cada etiqueta e coloquei `ok` no que estava certo e `nao` onde tinha problema, basicamente nos nouns. Mas esta muito bom, ele consegue identificar contracoes, tempos perfeitos, diferenciar `like` de verbo e de preposicao. Congrats!!! Como falei achei melhor colocar aqui pra nao estragar o trabalho do Rogerio la no diretorio. So abri o github dos tagsets em ingles e fui comparando com o output do gpt
+[31/07/26, 15:17:17] Tony Berber Sardinha: LLM_Tagging.pdf • 3 pages document omitted
+[31/07/26, 15:17:54] Tony Berber Sardinha: otimo, Claudia! 👏
+[31/07/26, 15:18:52] Tony Berber Sardinha: as expressões são complicadas mesmo, porque não são unidades linguísticas claras.
+[31/07/26, 15:19:31] Maria Cláudia Nunes Delfino: Sim, imaginei
+[31/07/26, 15:22:42] Tony Berber Sardinha: esse arquivo está no overleaf do GELC, pasta LLM tagging
+[31/07/26, 16:08:46] Carlos Kauffmann: Berber Sardinha et al. 2012 - Dimensões de variação do português brasileiro.pdf • 62 pages document omitted
+
