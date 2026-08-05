@@ -9,11 +9,15 @@
 5. Determinantes demostrativos: este, esta, estos, estas, ese, esa, esos, esas, aquel, aquella, aquellos, aquellas
 6. Determinantes posesivos: mi, mis, tu, tus, su, sus, nuestro, nuestra, nuestros, nuestras, vuestro, vuestra, vuestros, vuestras
 7. Determinantes indefinidos: algún, alguno, alguna, algunos, algunas, ningún, ninguno, ninguna, ningunos, ningunas, mucho, mucha, muchos, muchas, poco, poca, pocos, pocas, bastante, bastantes, demasiado, demasiada, demasiados, demasiadas, varios, varias, otro, otra, otros, otras, todo, toda, todos, todas, cualquier, cualquiera, cualesquiera, cierto, cierta, ciertos, ciertas
-8. Determinantes numerales
-8.1. Cardinales: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, trece, catorce, quince, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien, mil
-8.2. Ordinales: primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, undécimo, duodécimo
-8.3. Multiplicativos: doble, triple, cuádruple, quíntuple
-8.4. Partitivos o fraccionarios: medio, tercio, cuarto, quinto, sexto
+
+8.1. Determinantes numerales cardinales: uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez, once, doce, trece, catorce, quince, veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien, mil
+
+8.2. Determinantes numerales ordinales: primero, segundo, tercero, cuarto, quinto, sexto, séptimo, octavo, noveno, décimo, undécimo, duodécimo
+
+8.3. Determinantes numerales multiplicativos: doble, triple, cuádruple, quíntuple
+
+8.4. Determinantes numerales partitivos o fraccionarios: medio, tercio, cuarto, quinto, sexto
+
 9. Determinantes interrogativos y exclamativos: qué, cuánto, cuánta, cuántos, cuántas
 
 ## B. Pronombres
@@ -77,9 +81,11 @@
 55. Pluscuamperfecto: había visto, habíamos señalado, había oído, habíamos escuchado, habíais caído, habían abierto
 56. Futuro: iré, bailarás, comprará, escribiremos, diréis, caminarán
 57. Condicional: bebería, cenarías, trabajaría, nos peinaríamos, escucharíais, soñaría
-58. Imperativo
+
 58.1. Imperativo Afirmativo
+
 58.2. Imperativo Negativo
+
 59. Presente de Subjuntivo: hable, comas, viva, estudiemos, trabajen
 60. Subjuntivo pasado:
 61. Perífrasis progresivas: estoy hablando, estás comiendo, está viviendo, estamos estudiando, están trabajando

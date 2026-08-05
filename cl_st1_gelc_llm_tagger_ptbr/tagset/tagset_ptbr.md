@@ -2,37 +2,37 @@
 
 ## A. Artigos e determinantes
 
-1. Artigos definidos: o, a, os, as
-2. Artigos indefinidos: um, uma, uns, umas
-3. Contrações de preposição + artigo: ao, aos, à, às, do, da, dos, das, no, na, nos, nas, pelo, pela, pelos, pelas, dum, duma
-4. Determinantes demonstrativos: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas
-5. Determinantes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas, vosso, vossa, vossos, vossas
-6. Determinantes indefinidos: algum, alguma, alguns, algumas, nenhum, nenhuma, nenhuns, nenhumas, muito, muita, muitos, muitas, pouco, pouca, poucos, poucas, bastante, bastantes, demasiado, demasiada, demasiados, demasiadas, vários, várias, outro, outra, outros, outras, todo, toda, todos, todas, qualquer, quaisquer, certo, certa, certos, certas
+1. artigos definidos: o, a, os, as
+2. artigos indefinidos: um, uma, uns, umas
+3. contrações de preposição + artigo: ao, aos, à, às, do, da, dos, das, no, na, nos, nas, pelo, pela, pelos, pelas, dum, duma
+4. determinantes demonstrativos: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas
+5. determinantes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas, vosso, vossa, vossos, vossas
+6. determinantes indefinidos: algum, alguma, alguns, algumas, nenhum, nenhuma, nenhuns, nenhumas, muito, muita, muitos, muitas, pouco, pouca, poucos, poucas, bastante, bastantes, demasiado, demasiada, demasiados, demasiadas, vários, várias, outro, outra, outros, outras, todo, toda, todos, todas, qualquer, quaisquer, certo, certa, certos, certas
 
-7.1. Determinantes numerais cardinais: um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, quatorze/catorze, quinze, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem, mil
+7.1. determinantes numerais cardinais: um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, quatorze/catorze, quinze, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem, mil
 
-7.2. Determinantes numerais ordinais: primeiro, segundo, terceiro, quarto, quinto, sexto, sétimo, oitavo, nono, décimo
+7.2. determinantes numerais ordinais: primeiro, segundo, terceiro, quarto, quinto, sexto, sétimo, oitavo, nono, décimo
 
-7.3. Determinantes numerais multiplicativos: dobro, duplo, triplo, quádruplo, quíntuplo
+7.3. determinantes numerais multiplicativos: dobro, duplo, triplo, quádruplo, quíntuplo
 
-7.4. Determinantes numerais partitivos ou fracionários: meio, metade, terço, quarto, quinto, sexto
+7.4. determinantes numerais partitivos ou fracionários: meio, metade, terço, quarto, quinto, sexto
 
-8. Determinantes interrogativos e exclamativos: que, qual, quais, quanto, quanta, quantos, quantas
+8. determinantes interrogativos e exclamativos: que, qual, quais, quanto, quanta, quantos, quantas
 
 ## B. Pronomes
 
-9. Pronomes pessoais retos: eu, tu, ele, ela, nós, vós, eles, elas, você, vocês, a gente
-10. Pronomes pessoais oblíquos átonos: me, te, se, o, a, os, as, lhe, lhes, nos, vos
-11. Pronomes pessoais oblíquos tônicos: mim, ti, si, ele, ela, nós, vós, eles, elas
-12. Pronomes de objeto direto: o, a, os, as; também formas informais com pronome reto em função de objeto, como vi eles, encontrei ela
-13. Pronomes de objeto indireto: me, te, lhe, lhes, nos, vos; também construções preposicionadas, como para mim, para ele, para eles
-14. Pronomes reflexivos: me, te, se, nos, vos
-15. Pronomes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas
-16. Pronomes demonstrativos: este, esta, isto, esse, essa, isso, aquele, aquela, aquilo
-17. Pronomes indefinidos: alguém, ninguém, algo, nada, tudo, cada, qualquer, quaisquer, todo, toda, todos, todas, outro, outra, outros, outras
-18. Pronomes relativos: que, quem, cujo, cuja, cujos, cujas, o qual, a qual, os quais, as quais, onde
-19. Pronomes interrogativos e exclamativos: que, quem, qual, quais, quanto, quanta, quantos, quantas
-20. Formas pronominais neutras: isto, isso, aquilo, tudo, o em usos neutros, como o importante, o que aconteceu
+9. pronomes pessoais retos: eu, tu, ele, ela, nós, vós, eles, elas, você, vocês, a gente
+10. pronomes pessoais oblíquos átonos: me, te, se, o, a, os, as, lhe, lhes, nos, vos
+11. pronomes pessoais oblíquos tônicos: mim, ti, si, ele, ela, nós, vós, eles, elas
+12. pronomes de objeto direto: o, a, os, as; também formas informais com pronome reto em função de objeto, como vi eles, encontrei ela
+13. pronomes de objeto indireto: me, te, lhe, lhes, nos, vos; também construções preposicionadas, como para mim, para ele, para eles
+14. pronomes reflexivos: me, te, se, nos, vos
+15. pronomes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas
+16. pronomes demonstrativos: este, esta, isto, esse, essa, isso, aquele, aquela, aquilo
+17. pronomes indefinidos: alguém, ninguém, algo, nada, tudo, cada, qualquer, quaisquer, todo, toda, todos, todas, outro, outra, outros, outras
+18. pronomes relativos: que, quem, cujo, cuja, cujos, cujas, o qual, a qual, os quais, as quais, onde
+19. pronomes interrogativos e exclamativos: que, quem, qual, quais, quanto, quanta, quantos, quantas
+20. formas pronominais neutras: isto, isso, aquilo, tudo, o em usos neutros, como o importante, o que aconteceu
 
 ## C. Substantivos
 
