@@ -45,8 +45,11 @@
 ## D. The Verb Phrase
 
 30. simple past tense e.g., they claimed, she concluded, he found, I reported
+
 31a. present perfect tense e.g., they have known, they have seen, it has shown
+
 31b. past perfect tense e.g., they had shown, they had seen, it had shown
+
 32. present continuous e.g., it is becoming, they ate causing, we are seeking33. progressive aspect e.g., is becoming, is causing, are seeking
 33. agentless passive voice: passive constructions with no specified agent; eg: this was done yesterday
 34. by-phrase passive voice: passive constructions with agent in by-phrase; eg: this was done by Mary yesterday
@@ -60,6 +63,7 @@
 39. evaluative adjectives e.g., best, good, important
 40. relational adjectives e.g., basic, common, different, major, similar
 41. topical adjectives e.g., economic, human, international, public
+
 41b. color adjectives e.g., green, yellow, blue, black
 
 ## F. Adverbs
