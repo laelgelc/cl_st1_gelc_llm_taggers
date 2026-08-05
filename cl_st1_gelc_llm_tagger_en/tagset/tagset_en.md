@@ -11,8 +11,11 @@
 4. 2nd person pronouns e.g., you
 5. 3rd person pronouns e.g., he, she, they
 6. pronoun ‘it’ all instances of ‘it’
+
 7a. demonstrative determiners: this (e.g. this idea is good.), that, these, those
+
 7b. demonstrative pronouns: this (e.g. I'll do this.); these, that, those
+
 8. nominal pronouns e.g., somebody, anyone
 9. all nouns: all words identified as nouns by automatic tagger
 10. nominalizations e.g., interaction, communication
