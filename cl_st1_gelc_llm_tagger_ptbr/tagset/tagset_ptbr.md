@@ -8,11 +8,14 @@
 4. Determinantes demonstrativos: este, esta, estes, estas, esse, essa, esses, essas, aquele, aquela, aqueles, aquelas
 5. Determinantes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas, vosso, vossa, vossos, vossas
 6. Determinantes indefinidos: algum, alguma, alguns, algumas, nenhum, nenhuma, nenhuns, nenhumas, muito, muita, muitos, muitas, pouco, pouca, poucos, poucas, bastante, bastantes, demasiado, demasiada, demasiados, demasiadas, vários, várias, outro, outra, outros, outras, todo, toda, todos, todas, qualquer, quaisquer, certo, certa, certos, certas
-7. Determinantes numerais
-7.1. Cardinais: um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, quatorze/catorze, quinze, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem, mil
-7.2. Ordinais: primeiro, segundo, terceiro, quarto, quinto, sexto, sétimo, oitavo, nono, décimo
-7.3. Multiplicativos: dobro, duplo, triplo, quádruplo, quíntuplo
-7.4. Partitivos ou fracionários: meio, metade, terço, quarto, quinto, sexto
+
+7.1. Determinantes numerais cardinais: um, dois, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, quatorze/catorze, quinze, vinte, trinta, quarenta, cinquenta, sessenta, setenta, oitenta, noventa, cem, mil
+
+7.2. Determinantes numerais ordinais: primeiro, segundo, terceiro, quarto, quinto, sexto, sétimo, oitavo, nono, décimo
+
+7.3. Determinantes numerais multiplicativos: dobro, duplo, triplo, quádruplo, quíntuplo
+
+7.4. Determinantes numerais partitivos ou fracionários: meio, metade, terço, quarto, quinto, sexto
 
 8. Determinantes interrogativos e exclamativos: que, qual, quais, quanto, quanta, quantos, quantas
 

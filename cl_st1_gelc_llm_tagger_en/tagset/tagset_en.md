@@ -2,8 +2,8 @@
 
 ## A. Articles
 
-1. Definite article: the
-2. Indefinite article: a
+1. definite article: the
+2. indefinite article: a
 
 ## B. Nouns and Pronouns
 
@@ -14,7 +14,7 @@
 7a. demonstrative determiners: this (e.g. this idea is good.), that, these, those
 7b. demonstrative pronouns: this (e.g. I'll do this.); these, that, those
 8. nominal pronouns e.g., somebody, anyone
- 9. all nouns: all words identified as nouns by automatic tagger
+9. all nouns: all words identified as nouns by automatic tagger
 10. nominalizations e.g., interaction, communication
 11. animate nouns e.g., adult, applicant, child, immigrant, patient
 12. process nouns e.g., achievement, comparison, effect, formation
