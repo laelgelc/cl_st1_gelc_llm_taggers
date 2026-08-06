@@ -195,10 +195,13 @@ O ponto mais importante para revisão do tagset 1 é a ausência de uma seção 
 
 O tagset 1 já possui:
 
-- 98. orações completivas com `que`;
-- 100. orações de infinitivo;
-- 97. orações relativas;
-- 99. interrogativas indiretas.
+98. orações completivas com `que`;
+
+100. orações de infinitivo;
+
+97. orações relativas;
+
+99. interrogativas indiretas.
 
 Mas o tagset 2 distingue muito mais:
 
