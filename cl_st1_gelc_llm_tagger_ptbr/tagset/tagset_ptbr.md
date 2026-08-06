@@ -25,7 +25,7 @@
 10. pronomes pessoais oblíquos átonos: me, te, se, o, a, os, as, lhe, lhes, nos, vos
 11. pronomes pessoais oblíquos tônicos: mim, ti, si, ele, ela, nós, vós, eles, elas
 12. pronomes de objeto direto: o, a, os, as; também formas informais com pronome reto em função de objeto, como vi eles, encontrei ela
-13. pronomes de objeto indireto: me, te, lhe, lhes, nos, vos; também construções preposicionadas, como para mim, para ele, para eles
+13. pronomes de objeto indireto: me, te, lhe, lhes, nos, vos; também construções preposicionadas, como para mim, para ele, para eles, para a gente
 14. pronomes reflexivos: me, te, se, nos, vos
 15. pronomes possessivos: meu, minha, meus, minhas, teu, tua, teus, tuas, seu, sua, seus, suas, nosso, nossa, nossos, nossas
 16. pronomes demonstrativos: este, esta, isto, esse, essa, isso, aquele, aquela, aquilo
@@ -36,17 +36,17 @@
 
 ## C. Substantivos
 
-21. substantivos próprios: João, Maria, Brasil, São Paulo, Correios
-22. substantivos comuns: casa, livro, estudante, cidade, mesa
-23. substantivos abstratos: amor, felicidade, liberdade, justiça, esperança
-24. substantivos concretos: pedra, computador, celular, cadeira, água
-25. substantivos animados: pessoa, estudante, professor, cachorro, gato
-26. substantivos coletivos: família, equipe, grupo, rebanho, exército
-27. substantivos de quantidade: quantidade, número, porcentagem, totalidade, metade
-28. substantivos cognitivos: ideia, conhecimento, opinião, pensamento, decisão
-29. substantivos de processo: desenvolvimento, aprendizagem, crescimento, construção, transformação
-30. substantivos técnicos: algoritmo, fonema, corpus, molécula, sintagma
-31. nominalizações: comunicação, organização, avaliação, aprendizagem, investigação, implementação
+21. substantivos próprios: João, Maria, Brasil, São Paulo, Correios, etc.
+22. substantivos comuns: casa, livro, estudante, cidade, mesa, etc.
+23. substantivos abstratos: amor, felicidade, liberdade, justiça, esperança, etc.
+24. substantivos concretos: pedra, computador, celular, cadeira, água, etc.
+25. substantivos animados: pessoa, estudante, professor, cachorro, gato, etc.
+26. substantivos coletivos: família, equipe, grupo, rebanho, exército, etc.
+27. substantivos de quantidade: quantidade, número, porcentagem, totalidade, metade, etc.
+28. substantivos cognitivos: ideia, conhecimento, opinião, pensamento, decisão, etc.
+29. substantivos de processo: desenvolvimento, aprendizagem, crescimento, construção, transformação, etc.
+30. substantivos técnicos: algoritmo, fonema, corpus, molécula, sintagma, etc.
+31. nominalizações: comunicação, organização, avaliação, aprendizagem, investigação, implementação, etc.
 
 ## D. Adjetivos
 
@@ -133,7 +133,7 @@
 
 ## J. Orações e estruturas sintáticas
 
-97. orações relativas: o livro que li, a pessoa que veio, a casa onde moro, o estudante que estuda
+97. orações relativas: o livro que li, a pessoa que veio, o país em que nasci, a casa onde moro, a mansão em que morei, o lugar para onde vou, a cidade de onde vim, o estudante que estuda, a pessoa que eu falei ontem (forma não padrão), um problema onde a gente precisa conversar mais (forma não padrão)
 98. orações completivas com que: acho que vem, disse que estava bem, penso que é correto
 99. orações interrogativas indiretas: não sei o que acontece, diga onde está, quero saber quem veio
 100. orações de infinitivo: quero estudar, preciso trabalhar, prefiro sair, posso ajudar
